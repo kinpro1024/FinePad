@@ -3,6 +3,9 @@
 FinePad is a macropad designed with fine pointer control for precision-requiring situations like colour curve modificatioins or timeline scrubbing.
 FinePad comes with two independently scrolling Rotary Encoder Knobs for precision X and Y axis control of the Pointer.
 
+![FinePad_No_Screen](Assets/FinePad.jpg)
+This is the version of finepad with no screen. A version with mode toggle and screen is coming soon.
+
 ![FinePad_PCB_Front](Assets/PCB_Front.jpg)
 ![FinePad_PCB_Front](Assets/PCB_Back.jpg)
 Finepad is built on a Custom PCB.
@@ -28,4 +31,5 @@ FinePad uses a custom PCB as it's base:
 - Raspberry Pi Pico handles Firmware.
 - Two AS5600 Hall Effect Absolute Encoders.
 
-# FinePad is in the Works and will be completed by 10/Apr/2026. It is a collaboration between kinpro1024 and ROY21.
+# FinePad (screenless) was completed on 10/Apr/2026. It is a collaboration between kinpro1024 and ROY21.
+# FinePad will get a toggle switch, screen and volume knob in an upcoming update. The full firmware will also come soon.
